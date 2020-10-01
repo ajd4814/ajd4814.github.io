@@ -6,6 +6,7 @@ My name is Alex Demerjian and I am 18 years old. I am from Montville, NJ and I a
 
 ### My Favorite Food
 Fettuccine Alfredo
+
 ![image](https://user-images.githubusercontent.com/69914709/94760388-5dcf0180-0370-11eb-877c-cd39e6cf2253.png)
 
 ### Link to RIT SE Website
