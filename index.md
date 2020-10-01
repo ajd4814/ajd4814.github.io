@@ -6,7 +6,7 @@ My name is Alex Demerjian and I am 18 years old. I am from Montville, NJ and I a
 
 ### My Favorite Food
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](url)
 
 
 ```
