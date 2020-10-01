@@ -4,12 +4,10 @@
 
 My name is Alex Demerjian and I am 18 years old. I am from Montville, NJ and I attended Montville Township High School. I have one older sister, one younger half-brother, and one step-brother. I have two dogs, one who is a shihtzu and another that is a lab/german shepherd mix. My favorite color is blue and I enjoy basketball, tennis, video games, and technology. My goal is to eventually work at Apple.
 
-### Markdown
+### My Favorite Food
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.modernhoney.com%2Ffettuccine-alfredo%2F&psig=AOvVaw2Ftt9V8_4g0xA6DCrcehsl&ust=1601607163137000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDm9uGxkuwCFQAAAAAdAAAAABAD
 
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
