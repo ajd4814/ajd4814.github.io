@@ -13,7 +13,7 @@ Fettuccine Alfredo
 [RIT SE Website](http://www.se.rit.edu/~swen-101/00/index.html)
 
 
-### What I Would Like to Learn
+### What I Would Like to Learn From RIT SE
 - How to work effectively in groups with other Software Engineers.
 - How to come up with an idea for a program.
 - How to plan out the creation of a piece of software.
