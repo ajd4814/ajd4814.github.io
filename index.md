@@ -7,7 +7,15 @@ My name is Alex Demerjian and I am 18 years old. I am from Montville, NJ and I a
 ### My Favorite Food
 ![image](https://user-images.githubusercontent.com/69914709/94760388-5dcf0180-0370-11eb-877c-cd39e6cf2253.png)
 
-[Link](url) and ![Image](url)
+### Link to RIT SE Website
+[Link](http://www.se.rit.edu/~swen-101/00/index.html)
+
+
+### What I Would Like to Learn
+- How to work effectively in groups with other Software Engineers.
+- How to come up with an idea for a program.
+- How to plan out the creation of a piece of software.
+- Important advice on how to be a successful Software Engineer.
 
 
 ```
