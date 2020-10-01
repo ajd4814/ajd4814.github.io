@@ -6,22 +6,9 @@ My name is Alex Demerjian and I am 18 years old. I am from Montville, NJ and I a
 
 ### My Favorite Food
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.modernhoney.com%2Ffettuccine-alfredo%2F&psig=AOvVaw2Ftt9V8_4g0xA6DCrcehsl&ust=1601607163137000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDm9uGxkuwCFQAAAAAdAAAAABAD
-
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
 [Link](url) and ![Image](src)
+
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
